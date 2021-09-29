@@ -1,0 +1,10 @@
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\bin\Debug\HerenciaTeoria.exe.config
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\bin\Debug\HerenciaTeoria.exe
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\bin\Debug\HerenciaTeoria.pdb
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaPractica.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaTeoria.Form1.resources
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaTeoria.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaPractica.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaPractica.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaTeoria.exe
+C:\Users\alexi\OneDrive\Escritorio\Programacion\HerenciaTeoria\HerenciaTeoria\obj\Debug\HerenciaTeoria.pdb
